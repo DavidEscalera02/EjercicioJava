@@ -16,4 +16,9 @@ public class Persona {
         System.out.println("Nombre: "+nombre);
         System.out.println("edad: "+edad);
     }
+    public void imprimir(){
+        System.out.println("Nombre: "+nombre);
+        System.out.println("Edad: "+edad);
+
+    }
 }
